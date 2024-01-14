@@ -17,7 +17,7 @@ spec:
           value: 'true'
   destination:
     namespace: cert-manager
-    name: in-cluster
+    name: gke_teg-cloud-bfsi-uk1_asia-south2-b_cluster2
   syncPolicy:
     automated: {}
     syncOptions:

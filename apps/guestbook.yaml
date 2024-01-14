@@ -8,7 +8,7 @@ metadata:
 spec:
   destination:
     namespace: guestbook
-    name: in-cluster
+    name: gke_teg-cloud-bfsi-uk1_asia-south2-b_cluster2
   project: default
   source:
     path: general/helm-guestbook
